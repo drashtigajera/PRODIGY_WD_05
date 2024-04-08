@@ -17,7 +17,10 @@ Objective: The primary objective of Weather Search is to offer users a quick and
 
 <li>User-friendly Interface: The application features a straightforward interface with a search box and a search button, allowing users to quickly access the desired weather information with minimal effort.</li></ol>
 
-#Technologies :
+# Technologies :
 HTML,CSS & JAVASCRIPT 
 
-#Preview :
+# Preview :
+This is preview of the project. You can visit live preview on Here.
+
+[Click here..](https://task-weather-project.netlify.app)
